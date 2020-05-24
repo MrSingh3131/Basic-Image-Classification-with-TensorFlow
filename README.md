@@ -59,3 +59,15 @@ Evaluating the model on the test data.
 - Task 8: Predictions
 Predictions on the test set.
 Visualizing the predictions.
+
+
+
+
+#### CERTIFICATE DETAILS
+
+- Name: Basic Image Classification with TensorFlow
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: KW6H4SH25SPK
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/KW6H4SH25SPK
